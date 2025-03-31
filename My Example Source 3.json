@@ -1,0 +1,632 @@
+{
+  "name": "My Example Source",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/pqIZoZo.jpeg",
+  "website": "https://altstudio.app",
+  "patreonURL": "https://patreon.com/altstudio",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "apps": [
+    {
+      "name": "Minecraft",
+      "bundleIdentifier": "com.mojang.minecraftpe",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/wuySYZj.png",
+      "tintColor": "#54a434",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Used for Live Broadcast",
+          "NSMainNibFile": "MainWindow",
+          "NSUserTrackingUsageDescription": "Your data will be used to track advertising efficiency.",
+          "NSPhotoLibraryAddUsageDescription": "Used to read and write Minecraft images.",
+          "NSLocalNetworkUsageDescription": "Minecraft wants to access your local network. This allows you and others on your local network to play together. Declining this permission does not affect online features or gameplay. But will prevent you and others, on the same network, from playing together.",
+          "NSMicrophoneUsageDescription": "Used for Live Broadcast",
+          "NSContactsUsageDescription": "When you use the Xbox Live Friend Finder, it will access your contacts to help you find your friends.",
+          "NSPhotoLibraryUsageDescription": "Used to read and write Minecraft images."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "GeometryJump",
+      "bundleIdentifier": "com.robtop.geometryjump",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/pcQt3If.png",
+      "tintColor": "#fcda09",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "GBox",
+      "bundleIdentifier": "com.ncs.gbox",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/jNhyAoN.png",
+      "tintColor": "#04dc64",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Grant access to the sandbox. Required for app functionality.",
+          "NSCameraUsageDescription": "是否权允许访问相机，以导入照片",
+          "NSFaceIDUsageDescription": "是否授权允许使用面容ID，以加密您的资料",
+          "NSPhotoLibraryAddUsageDescription": "是否权允许相册授权，以导入相册或者视频",
+          "NSPhotoLibraryUsageDescription": "是否权允许访问相册，以导入相册或者视频"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "feather",
+      "bundleIdentifier": "kh.crysalis.feather",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/RlYejnc.png",
+      "tintColor": "#0616f8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSHumanReadableCopyright": "Copyright (c) 2024 Samara M (khcrysalis)"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "ESign",
+      "bundleIdentifier": "p3.xyz.yyyue.esign",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/GiV2ltI.png",
+      "tintColor": "#4ca4f4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "点允许，才能使用。",
+          "NSCameraUsageDescription": "授权后才能使用您的相机进行扫一扫",
+          "NSLocationWhenInUseUsageDescription": "开启定位服务，我们将根据您的位置,为您提供相关信息。在未经许可前不会开启定位服务，请放心使用。",
+          "NSPhotoLibraryAddUsageDescription": "授权后才能将图片保存到本地相册",
+          "NSPhotoLibraryUsageDescription": "授权后才能访问您的手机相册，您才能上传对应的图片",
+          "NSUserTrackingUsageDescription": "This identifier will be used to deliver personalized ads to you"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "misaka",
+      "bundleIdentifier": "com.straight-tamago.misakaRS",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/jy5fUVD.png",
+      "tintColor": "#e11de1",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryUsageDescription": "...",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "",
+          "NSLocationWhenInUseUsageDescription": "",
+          "NSAppleMusicUsageDescription": "",
+          "NSLocalNetworkUsageDescription": "..."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Portal",
+      "bundleIdentifier": "com.timi2506.wsf-portal",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/DPNHMbh.png",
+      "tintColor": "#450af4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Share Content from Portal on one device to another",
+          "NSBluetoothPeripheralUsageDescription": "Share Content from Portal on one device to another",
+          "NSLocalNetworkUsageDescription": "Share Files",
+          "NSNearbyInteractionUsageDescription": "Share Content from Portal on one device to another"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PoppyPlaytimeChapter3",
+      "bundleIdentifier": "com.MobEntertainment.PoppyPlaytimeChapter3",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/Pm8qyXH.png",
+      "tintColor": "#94447c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "Dependency from external library or SDK."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Poppy Chapter 2 ",
+      "bundleIdentifier": "com.PoppyMobileChapterTwo.PoppyPlaytimeChapterTwo",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/jLFM31U.jpeg",
+      "tintColor": "#046cfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "",
+          "NSLocationWhenInUseUsageDescription": ">"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "FortniteClient-IOS-Shipping",
+      "bundleIdentifier": "com.epicgames.FortniteGame",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/IppKQy7.png",
+      "tintColor": "#a434fc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "This permission is not requested or used and will be removed in a future version of the game.",
+          "NSMicrophoneUsageDescription": "Fortnite needs microphone access for voice chat."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Scarlet",
+      "bundleIdentifier": "com.DebianArch.ScarletPersonalXYZ",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/QDeKv9I.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PoppyMobileChapterOne",
+      "bundleIdentifier": "com.MOBGames.PoppyMobileChapterOne",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/rDOKVOQ.png",
+      "tintColor": "#e00404",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "",
+          "NSLocationWhenInUseUsageDescription": ">"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "NB v60.420",
+      "bundleIdentifier": "nt.nb.ios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/fMgzfDJ.png",
+      "tintColor": "#8c1cd4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "My Example App",
+      "bundleIdentifier": "com.opa334.TrollStore",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/UBLv0al.jpeg",
+      "tintColor": "#04befc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.rileytestut.AltStore",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/oV8LdC5.png",
+      "tintColor": "#38c4ac",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "AltStore uses the local network to find and communicate with AltServer."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "GC4iOS ",
+      "bundleIdentifier": "com.kabiroberai.GC4iOS",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/Zt8c2P7.png",
+      "tintColor": "#6454b3",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Zebra",
+      "bundleIdentifier": "xyz.willy.Zebra",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/eeTbis6.png",
+      "tintColor": "#ffffff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSFaceIDUsageDescription": "Zebra uses Face ID to authenticate purchases."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Filza",
+      "bundleIdentifier": "com.tigisoftware.Filza",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/MUiuMlA.png",
+      "tintColor": "#ffffff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSPhotoLibraryAddUsageDescription": "To save photos and videos to photo library.",
+          "NSPhotoLibraryUsageDescription": "To save photos and videos to photo library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Gene Brawl",
+      "bundleIdentifier": "gene.brawl.release",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/RCOqOAY.png",
+      "tintColor": "#ffffff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+          "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
+          "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "SideStore",
+      "bundleIdentifier": "com.SideStore.SideStore",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/P8fXUMY.png",
+      "tintColor": "#04d4f9",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "SideStore uses the local network to find and communicate with your device."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "TrollHelper",
+      "bundleIdentifier": "com.opa334.trollstorepersistencehelper",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/7y9d1XD.jpeg",
+      "tintColor": "#fcac04",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Hot Tub",
+      "bundleIdentifier": "com.c1d3r.Hot-Tub",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/r734z8J.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "We use FFmpeg for media processing. It includes camera-related features we don’t use, but the permission is required due to the library. Rest assured, we never access your camera.",
+          "NSFaceIDUsageDescription": "FaceID is used to prevent unauthorized access to the app."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Roblox",
+      "bundleIdentifier": "com.gloop.deltamobile",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/9upWnSK.png",
+      "tintColor": "#2672d8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSCameraUsageDescription": "Roblox uses your camera to animate your avatar with your movement and scan QR codes.",
+          "NSContactsUsageDescription": "Connect with friends on Roblox. Your contacts will be regularly synced and matches with other Roblox users will be stored to help you find friends. You can manage this any time in settings.",
+          "NSHumanReadableCopyright": "2014 ROBLOX Inc.",
+          "NSLocalNetworkUsageDescription": "Roblox needs access to local networks to connect to players around you.",
+          "NSMicrophoneUsageDescription": "Roblox needs access to your microphone for voice chat.",
+          "NSMotionUsageDescription": "Roblox needs access to the accelerometer to enhance your play experience.",
+          "NSPhotoLibraryAddUsageDescription": "Allow Roblox to access your photo library so you can save images and videos to your device's camera roll.",
+          "NSPhotoLibraryUsageDescription": "Roblox needs access to your photos to enhance your play experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "unc0ver",
+      "bundleIdentifier": "science.xnu.undecimus",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/55gfvEF.png",
+      "tintColor": "#3636c8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "TrollInstaller",
+      "bundleIdentifier": "com.opa334.TrollInstaller",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/cy22whi.jpeg",
+      "tintColor": "#ffffff",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "TrollInstallerX",
+      "bundleIdentifier": "com.Alfie.TrollInstallerX",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/m6dHPRj.png",
+      "tintColor": "#04bcfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Unsandboxing with MacDirtyCow"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Sileo Demo",
+      "bundleIdentifier": "org.coolstar.SileoDemo",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/EJZkfph.png",
+      "tintColor": "#34decc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSFaceIDUsageDescription": "Sileo uses Face ID to quickly authenticate purchases."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "AltStore",
+      "bundleIdentifier": "com.f9h822iz5n.6em9497opr",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/GyOgvXR.png",
+      "tintColor": "#38c4ac",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "AltStore uses the local network to find and communicate with AltServer."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "WhatsApp",
+      "bundleIdentifier": "net.whatsapp.WhatsApp",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/0BB6RJI.png",
+      "tintColor": "#54f471",
+      "category": "other",
+      "screenshots": [],
+      "versions": [],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCalendarsUsageDescription": "‎This lets you create events on your calendar.",
+          "NSCameraUsageDescription": "‎This lets you take photos and videos right from within WhatsApp.",
+          "NSContactsUsageDescription": "‎Upload your contacts to WhatsApp's servers to help you quickly get in touch with your friends and help us provide a better experience.",
+          "NSFaceIDUsageDescription": "‎Use Face ID to authenticate on WhatsApp.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. If you only allow access while using the app, you can only send your current location or a nearby place.",
+          "NSLocationAlwaysUsageDescription": "‎If you always allow access to your location, you can choose to share your live location, and it will update even when you're not using the app. This also lets you send your current location or a nearby place.",
+          "NSLocationUsageDescription": "‎This lets you send your current location or nearby places in chats.",
+          "NSLocationWhenInUseUsageDescription": "‎This lets you send your current location or nearby places in chats.",
+          "NSMicrophoneUsageDescription": "‎This lets you make calls, send Voice Messages, and record videos with sound.",
+          "NSPhotoLibraryUsageDescription": "‎This lets you send photos and videos from your library and save the ones you capture.",
+          "NSRemindersUsageDescription": "‎This lets you set reminders to call your friends back.",
+          "NSSiriUsageDescription": "‎This lets you use Siri to quickly send and read messages and make calls."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
